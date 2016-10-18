@@ -2,3 +2,5 @@ Change 1
 Change 2
 Change1->Change1
 Added change in new bug2 branch
+
+Added new Text in bug123 branch
